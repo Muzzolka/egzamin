@@ -1,0 +1,593 @@
+1511210206489	geckodriver	INFO	Listening on 127.0.0.1:38895
+1511210207716	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1511210208383	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210208386	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210208430	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210208432	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210208474	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210208477	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210209195	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210209196	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210209197	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210209204	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210209205	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210209206	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210209825	Marionette	INFO	Listening on port 45891
+1511210210227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511210276599	geckodriver	INFO	Listening on 127.0.0.1:60475
+1511210277854	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1511210278932	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210278937	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210278947	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210278948	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210278975	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210278978	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210280046	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210280048	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210280049	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210280064	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210280067	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210280068	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210280486	Marionette	INFO	Listening on port 41273
+1511210280784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1511210727584	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210727585	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210727586	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1511210797627	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210797630	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210797631	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511210839042	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210839044	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210839045	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511210909645	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511210909647	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511210909648	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/49, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/49, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/49, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/49, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/49, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/49, type getOriginalLocation failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+getOriginalLocation@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:261:7
+_create@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:1070:23
+_populate/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/rules/rules.js:874:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2195:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511211468029	geckodriver	INFO	Listening on 127.0.0.1:42315
+1511211469812	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1511211486309	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511211486347	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511211486420	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511211486424	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511211486460	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511211486460	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511211488698	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511211488713	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511211488714	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511211488748	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511211488755	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511211488756	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511211491085	Marionette	INFO	Listening on port 42093
+1511211492090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511211693117	geckodriver	INFO	Listening on 127.0.0.1:59187
+1511211694566	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1511211698757	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511211698765	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511211698909	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511211698910	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511211698924	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511211698925	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511211699744	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511211699749	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511211699750	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511211699766	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511211699770	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511211699770	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511211700260	Marionette	INFO	Listening on port 33511
+1511211700751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 48 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 48 of the JSON data
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511212001879	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511212001883	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511212001887	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511212118268	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511212118273	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511212118278	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511212215960	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511212215963	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511212215964	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+1511212329481	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511212329485	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511212329493	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511212819483	geckodriver	INFO	Listening on 127.0.0.1:33371
+1511212821033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511212835520	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511212835538	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511212835561	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511212835562	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511212835580	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511212835585	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511212838372	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511212838373	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511212838375	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511212838387	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511212838389	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511212838390	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1511212839286	Marionette	INFO	Listening on port 32977
+1511212841421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 49 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 49 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511213354463	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511213354465	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511213354472	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 49 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 48 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+1511213468151	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not compatible with application version.
+1511213468152	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1511213468159	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 48 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 48 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 48 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 49 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 49 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 48 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 48 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 49 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 45 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 47 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
+JavaScript error: resource://gre/modules/GCTelemetry.jsm, line 194: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 46 of the JSON data
