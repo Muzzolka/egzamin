@@ -1,0 +1,498 @@
+1511447205020	geckodriver	INFO	geckodriver 0.19.1
+1511447205025	geckodriver	INFO	Listening on 127.0.0.1:42991
+1511447206222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kZGxTvfNG901"
+1511447206965	Marionette	INFO	Enabled via --marionette
+1511447209600	Marionette	INFO	Listening on port 42805
+1511447209682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511447209808	Marionette	DEBUG	Register listener.js for window 2147483649
+1511447209900	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511447210639	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511447210639	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511447211142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511447214484	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511457908208	geckodriver	INFO	geckodriver 0.19.1
+1511457908212	geckodriver	INFO	Listening on 127.0.0.1:49693
+1511457909379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.70Z3y3NTXCFx"
+1511457909982	Marionette	INFO	Enabled via --marionette
+1511457912320	Marionette	INFO	Listening on port 36851
+1511457912434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511457912549	Marionette	DEBUG	Register listener.js for window 2147483649
+1511457912610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511457915717	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511457915717	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511457916123	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511457917660	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511460461458	geckodriver	INFO	geckodriver 0.19.1
+1511460461462	geckodriver	INFO	Listening on 127.0.0.1:54863
+1511460462644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hdmPfggOqfXg"
+1511460463272	Marionette	INFO	Enabled via --marionette
+1511460465340	Marionette	INFO	Listening on port 41247
+1511460465402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511460465574	Marionette	DEBUG	Register listener.js for window 2147483649
+1511460465683	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511460467455	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511460467455	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511460467925	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511460469649	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511460469811	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511460471997	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511460472000	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511460472328	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511460472389	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511460503574	geckodriver	INFO	geckodriver 0.19.1
+1511460503578	geckodriver	INFO	Listening on 127.0.0.1:38451
+1511460504757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T65ygqsKi5Cv"
+1511460505390	Marionette	INFO	Enabled via --marionette
+1511460507641	Marionette	INFO	Listening on port 46231
+1511460507817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511460507950	Marionette	DEBUG	Register listener.js for window 2147483649
+1511460507981	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511460509536	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511460509537	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511460510131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511460511791	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511460512004	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511460513150	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511460513163	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511460513500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511460514072	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511460654799	geckodriver	INFO	geckodriver 0.19.1
+1511460654804	geckodriver	INFO	Listening on 127.0.0.1:52761
+1511460655982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UFDRm2gWaaKp"
+1511460656682	Marionette	INFO	Enabled via --marionette
+1511460658971	Marionette	INFO	Listening on port 40879
+1511460659025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511460659147	Marionette	DEBUG	Register listener.js for window 2147483649
+1511460659186	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511460660070	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511460660070	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511460660571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511460661982	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511460662100	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511460663244	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511460663252	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511460663473	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511460663902	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511460703647	geckodriver	INFO	geckodriver 0.19.1
+1511460703651	geckodriver	INFO	Listening on 127.0.0.1:49563
+1511460704802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O8O7uxkcbN64"
+1511460705391	Marionette	INFO	Enabled via --marionette
+1511460707614	Marionette	INFO	Listening on port 44333
+1511460707663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511460707790	Marionette	DEBUG	Register listener.js for window 2147483649
+1511460707820	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511460708427	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511460708428	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511460708880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511460710273	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511460710453	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511460711724	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511460711727	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511460711975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511460712524	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511460811919	geckodriver	INFO	geckodriver 0.19.1
+1511460811923	geckodriver	INFO	Listening on 127.0.0.1:43819
+1511460813095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kt5xUbD2s6kH"
+1511460813701	Marionette	INFO	Enabled via --marionette
+1511460815765	Marionette	INFO	Listening on port 34443
+1511460815908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511460816117	Marionette	DEBUG	Register listener.js for window 2147483649
+1511460816175	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511460816893	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511460816894	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511460817399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511460817715	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511460856279	geckodriver	INFO	geckodriver 0.19.1
+1511460856283	geckodriver	INFO	Listening on 127.0.0.1:45813
+1511460857462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Lmw9spAYJdjj"
+1511460858099	Marionette	INFO	Enabled via --marionette
+1511460860193	Marionette	INFO	Listening on port 34867
+1511460860350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511460860457	Marionette	DEBUG	Register listener.js for window 2147483649
+1511460860488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511460861262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511460861263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511460861746	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511460862879	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511460863041	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511460864277	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511460864284	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511460864523	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511460864996	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511461670115	geckodriver	INFO	geckodriver 0.19.1
+1511461670122	geckodriver	INFO	Listening on 127.0.0.1:45449
+1511461671324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bavRdDEH2GP9"
+1511461672062	Marionette	INFO	Enabled via --marionette
+1511461674620	Marionette	INFO	Listening on port 46635
+1511461674811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511461674935	Marionette	DEBUG	Register listener.js for window 2147483649
+1511461674975	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511461676114	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511461676114	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511461676692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511461678145	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511461678394	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511461678590	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511461678594	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511461678863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511461679525	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511461699701	geckodriver	INFO	geckodriver 0.19.1
+1511461699706	geckodriver	INFO	Listening on 127.0.0.1:55361
+1511461700880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UBow6nkcIzO0"
+1511461701699	Marionette	INFO	Enabled via --marionette
+1511461704671	Marionette	INFO	Listening on port 36413
+1511461704761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511461704965	Marionette	DEBUG	Register listener.js for window 2147483649
+1511461705053	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511461706568	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511461706574	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511461707289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511461708581	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511461708855	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511461710023	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511461710028	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511461710453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511461710492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511461710495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511461711117	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511461768275	geckodriver	INFO	geckodriver 0.19.1
+1511461768280	geckodriver	INFO	Listening on 127.0.0.1:43847
+1511461768462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IGIbjUTqtzHk"
+1511461769658	Marionette	INFO	Enabled via --marionette
+1511461772766	Marionette	INFO	Listening on port 33827
+1511461772951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511461773189	Marionette	DEBUG	Register listener.js for window 2147483649
+1511461773274	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511461774394	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511461774394	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511461775130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511461776626	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511461776966	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511461778419	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511461778425	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511461778778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511461779567	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511461780010	Marionette	DEBUG	Register listener.js for window 2147483657
+1511461780388	Marionette	DEBUG	Register listener.js for window 2147483660
+1511461913124	geckodriver	INFO	geckodriver 0.19.1
+1511461913141	geckodriver	INFO	Listening on 127.0.0.1:50435
+1511461914456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z1mTsiv7rmJf"
+1511461917460	Marionette	INFO	Enabled via --marionette
+1511461921662	Marionette	INFO	Listening on port 36937
+1511461922016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511461922179	Marionette	DEBUG	Register listener.js for window 2147483649
+1511461922295	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511461923358	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511461923358	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511461924719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511461927922	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511461928203	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511461929443	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511461929449	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511461929930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511461930581	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511462031184	geckodriver	INFO	geckodriver 0.19.1
+1511462031190	geckodriver	INFO	Listening on 127.0.0.1:50175
+1511462032443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lRV2OsrOyox5"
+1511462033596	Marionette	INFO	Enabled via --marionette
+1511462036906	Marionette	INFO	Listening on port 35739
+1511462037038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511462037198	Marionette	DEBUG	Register listener.js for window 2147483649
+1511462037294	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511462038970	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511462038971	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511462039851	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511462040171	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511462040511	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511462042699	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511462042720	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511462043220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462044784	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462045039	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462045701	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462045715	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462047453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+1511462053448	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511462538726	geckodriver	INFO	geckodriver 0.19.1
+1511462538737	geckodriver	INFO	Listening on 127.0.0.1:50049
+1511462539944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eCVj0RAZws6p"
+1511462540980	Marionette	INFO	Enabled via --marionette
+1511462544475	Marionette	INFO	Listening on port 38945
+1511462544517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511462544746	Marionette	DEBUG	Register listener.js for window 2147483649
+1511462544836	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511462546120	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511462546125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511462547520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511462551317	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511462551774	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511462552903	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511462552911	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511462553641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462554421	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462554711	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462555305	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462555310	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511462556864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+1511462562347	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.error: 
+  stylesheets actor: fetch failed for https://bilety.teatr-capitol.pl/css/styles.css, using system principal instead.
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:214:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:223:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:88:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:2724:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:261:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:224:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1570:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1570:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:917:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:512:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/childtab.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:495:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:261:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:224:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1892:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1892:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:756:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1509:7
+onDisconnect<@resource://devtools/server/child.js:107:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 214, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:214:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:223:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:88:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:2724:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:261:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:224:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1570:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1570:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:917:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:512:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/childtab.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:495:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:261:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:224:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1892:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1892:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:756:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1509:7
+onDisconnect<@resource://devtools/server/child.js:107:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 214, column: 5
+1511463232276	Marionette	DEBUG	Register listener.js for window 2147483681
+1511463239781	geckodriver	INFO	geckodriver 0.19.1
+1511463239788	geckodriver	INFO	Listening on 127.0.0.1:40753
+1511463240972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3iOWayyiJfHf"
+1511463242023	Marionette	INFO	Enabled via --marionette
+1511463245814	Marionette	INFO	Listening on port 35655
+1511463245866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511463245990	Marionette	DEBUG	Register listener.js for window 2147483649
+1511463246046	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511463247903	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511463247903	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511463249054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511463261426	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511463261719	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511463266912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511463267186	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511463272356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511463626849	geckodriver	INFO	geckodriver 0.19.1
+1511463626857	geckodriver	INFO	Listening on 127.0.0.1:58965
+1511463628137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rnFU8KdTPYaC"
+1511463629074	Marionette	INFO	Enabled via --marionette
+1511463632332	Marionette	INFO	Listening on port 46173
+1511463632450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511463632657	Marionette	DEBUG	Register listener.js for window 2147483649
+1511463632790	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511463634237	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511463634238	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511463635549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511463640270	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511463640608	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511463641965	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511463641969	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511463642594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463643693	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463643870	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463644519	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463644522	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463646271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+1511463653557	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+1511463721938	geckodriver	INFO	geckodriver 0.19.1
+1511463721943	geckodriver	INFO	Listening on 127.0.0.1:33299
+1511463723189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oyNSlzm2MCSJ"
+1511463724150	Marionette	INFO	Enabled via --marionette
+1511463728200	Marionette	INFO	Listening on port 39429
+1511463728322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511463728479	Marionette	DEBUG	Register listener.js for window 2147483649
+1511463728653	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511463730413	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511463730413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511463731164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511463747378	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511463747839	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511463749027	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511463749032	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511463750159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463750403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511463753291	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463753680	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463754334	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463754342	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463756501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+1511463764781	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+1511463850198	geckodriver	INFO	geckodriver 0.19.1
+1511463850210	geckodriver	INFO	Listening on 127.0.0.1:60443
+1511463851489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KmNrgEiXgfUT"
+1511463853776	Marionette	INFO	Enabled via --marionette
+1511463858855	Marionette	INFO	Listening on port 36855
+1511463859144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511463859331	Marionette	DEBUG	Register listener.js for window 2147483649
+1511463859475	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511463861672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511463861672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511463862923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/"
+1511463866684	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/"
+1511463867094	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/"
+1511463869112	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/"
+1511463869116	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/"
+1511463869875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463870922	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463871168	Marionette	DEBUG	Received DOM event "beforeunload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463871841	Marionette	DEBUG	Received DOM event "pagehide" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463871845	Marionette	DEBUG	Received DOM event "unload" for "https://bilety.teatr-capitol.pl/termin.html?date_termin=2017-12-01"
+1511463874480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+1511463883900	Marionette	DEBUG	Received DOM event "pageshow" for "https://bilety.teatr-capitol.pl/numerowane.html?ter_id=1115&d=3&ter_idt=e8a7d0056b8361973e60b379ab995852"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
